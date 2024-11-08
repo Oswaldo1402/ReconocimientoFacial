@@ -1,0 +1,11 @@
+@import url("styles/reset.css");
+@import url("styles/cabecera.css");
+@import url("styles/principal.css");
+@import url("styles/pie.css");
+
+.cuerpo{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial,sans-serif;
+}
